@@ -1,0 +1,19 @@
+{
+  "dataset": "bank_marketing (UCI 222) bank-additional-full.csv",
+  "n": 41170,
+  "feature_dim": 55,
+  "sensitive": "education",
+  "removed_education": "illiterate",
+  "education_groups": [
+    "basic.4y",
+    "basic.6y",
+    "basic.9y",
+    "high.school",
+    "professional.course",
+    "university.degree",
+    "unknown"
+  ],
+  "alpha": 0.3,
+  "block": 256,
+  "undirected_edges": 7885457
+}
