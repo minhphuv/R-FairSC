@@ -82,7 +82,7 @@ Experimental results are saved under the `results/` directory.
 
 ## Publication
 
-Minh Phu Vuong, Jinyoung Lee, Young-Ju Lee, and Chul-Ho Lee. 2026. *Riemannian Optimization for Fair Spectral Clustering*. In *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)*.
+Minh Phu Vuong, Jinyoung Lee, Young-Ju Lee, and Chul-Ho Lee. *Riemannian Optimization for Fair Spectral Clustering*. In *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)*.
 
 ## Citation
 
